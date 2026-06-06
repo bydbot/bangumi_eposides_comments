@@ -1,0 +1,23 @@
+# Comment data files (managed outside git)
+comments/
+comments_processed/
+comments_filtered/
+comments_final/
+comments_text/
+comments_analysis/
+jsonline/
+log/
+bge-small-zh-v1.5/
+embeddings/
+# Crawler runtime files
+crawler.log
+title_warnings.jsonl
+crawled-id.jsonline
+plan.txt
+# Local development files
+.claude/
+comments_supplement/
+model_comparison_test/
+scripts/
+提示词.md
+requirements_embed.txt
